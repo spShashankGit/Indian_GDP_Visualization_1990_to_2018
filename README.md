@@ -10,5 +10,10 @@ Ideas is to create a chart and refer it as and when needed. Mainly when the news
 ##### Demo
 ![Screenshot from 2020-04-13 02-42-56](https://user-images.githubusercontent.com/25440265/79083863-0ccf4080-7d31-11ea-9867-8933ab0d0420.png)
 
-![Kaggle notebook is available here] (https://www.kaggle.com/shashankpandey0949/indian-gdp-growth-visualization)
+![Kaggle notebook is available here](https://www.kaggle.com/shashankpandey0949/indian-gdp-growth-visualization)
+
+
+
+
+
 Data Source:-  World Bank
